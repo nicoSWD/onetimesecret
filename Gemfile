@@ -52,7 +52,7 @@ gem 'sendgrid-ruby'
 
 gem 'mail'
 
-gem "fastimage", "~> 2.3"
+gem "fastimage", "~> 2.4"
 
 gem 'psych', '~> 5.2.2'
 gem 'stringio', '~> 3.1.1'
